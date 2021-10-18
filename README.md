@@ -1,9 +1,6 @@
-⚒️ Python/Jupyter Notebook/Matlab/R
-✏️ Ubuntu & Spark & VIM & Hadoop
-👨 Pronouns: he/him
-👨‍🎓 Major in Data Engineering
+## Hey, arclight here! :wave:
 
-<!---
-Lucas-yyk/Lucas-yyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- :hammer_and_pick: Python/Jupyter Notebook/Matlab/R
+- :pencil2: Ubuntu & Spark & VIM & Hadoop
+- :man: Pronouns: he/him
+- :man_student: Major in Data Engineering
