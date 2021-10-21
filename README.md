@@ -1,6 +1,6 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Lucas-yyk&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
 ## Hey, yaoyunkai here! :wave:
+
+<img align="right" alt="ouuan's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=Lucas-yyk&show_icons=true">
 
 - :hammer_and_pick: Python/C/Matlab/C#/Java/R
 - :pencil2: Ubuntu & Spark & Hadoop & SQL
