@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-## Hey, arclight here! :wave:
-
-- :hammer_and_pick: Python/Jupyter Notebook/Matlab/R
-- :pencil2: Ubuntu & Spark & VIM & Hadoop
-- :man: Pronouns: he/him
-- :man_student: Major in Data Engineering
-=======
 ## Hey, yaoyunkai here! :wave:
 
 <img align="right" alt="ouuan's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=Lucas-yyk&show_icons=true">
@@ -14,4 +6,3 @@
 - :pencil2: Ubuntu & Spark & Hadoop & SQL & Matlab
 - :man: Pronouns: he/him
 - :man_student: Major in Data Engineering
->>>>>>> 9da03f46cd1879c21d09ffab50dedee6fcbdf776
